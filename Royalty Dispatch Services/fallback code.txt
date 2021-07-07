@@ -1,0 +1,11 @@
+Full text shadow
+
+text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black
+
+
+
+
+
+Text shadow edges
+
+text-shadow: 2px 0 0 black;
